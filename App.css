@@ -1,0 +1,25 @@
+.item {
+    width: 500;
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+ h1 {
+    text-align: center;
+ }
+ 
+ 
+ .paginationButton {
+    background-color: white;
+    border: 1px solid black;
+    margin: 5px;
+ }
+ .paginationButton:hover{
+ 
+    background-color: lightgray;
+    color: blue;
+ 
+ }
